@@ -5,7 +5,9 @@ Have been able to get over 60% on the quincy and kris bots but struggling to get
 
 
 When going against quincy and kris, use loaded_model and "counter_quincy_and_kris.keras" 
+
 When going against abbey, use loaded_model and "counter_abbey_6.keras"
+
 When going against mrugesh, use model.
 
 
