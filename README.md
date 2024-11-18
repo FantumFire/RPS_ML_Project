@@ -15,10 +15,10 @@ When going against mrugesh, use model.
 
 resources I've looked:
 
-https://www.tensorflow.org/tutorials/keras/save_and_load
-https://keras.io/guides/sequential_model/
-https://www.tensorflow.org/guide/keras/working_with_rnns
-https://www.tensorflow.org/guide/keras/serialization_and_saving
-https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/\
+https://www.tensorflow.org/tutorials/keras/save_and_load  
+https://keras.io/guides/sequential_model/  
+https://www.tensorflow.org/guide/keras/working_with_rnns  
+https://www.tensorflow.org/guide/keras/serialization_and_saving  
+https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/\  
 
 (there might be a few others but I forgot to write them down)
