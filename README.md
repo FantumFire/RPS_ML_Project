@@ -18,6 +18,7 @@ When going against mrugesh, use model.
 
 
 resources I've looked:
+
 https://www.tensorflow.org/tutorials/keras/save_and_load
 https://keras.io/guides/sequential_model/
 https://www.tensorflow.org/guide/keras/working_with_rnns
